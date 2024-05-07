@@ -94,7 +94,9 @@ Con el **LFI** y la configuración adecuada que vimos en el **info.php** podemos
 
 Para explotar esta **Condición de carrerra**, nos ayudaremos de un script ya automatizado en **python**.
 
-Link al **script** -> [Exploit Python]([https://www.insomniasec.com/downloads/publications/phpinfolfi.py](https://www.insomniasec.com/downloads/publications/phpinfolfi.py))
+Link al **script** -> [Exploit Python](https://www.insomniasec.com/downloads/publications/phpinfolfi.py](https://www.insomniasec.com/downloads/publications/phpinfolfi.py)](https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi2rce-via-phpinfo)
+
+<img width="657" alt="Captura de pantalla 2024-05-07 124016" src="https://github.com/albertomarcostic/HackTheHeaven/assets/131155486/8652124f-1911-4c9a-9e94-7eab8d8b7939">
 
 Tendremos que realizar algunas **modificaciones** en el script:
 
